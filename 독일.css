@@ -1,0 +1,12 @@
+.frame{
+  display:grid;
+  grid-template-columns:1fr 4fr;
+}
+.manu1{text-decoration: none;}
+.manu1{color: black;}
+.manu2{text-decoration: none;}
+.manu2{color: black;}
+.manu3{text-decoration: none;}
+.manu3{color: black;}
+.독일{color: #00ced1}
+@media(max-width:800px) {.frame{display: block;}
